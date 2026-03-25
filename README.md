@@ -1,4 +1,4 @@
-# Hi, I'm Sai Shyam 👋
+# Hi, I'm Saishyam 👋
 
 **Senior Product Analyst | Product Analytics, Experimentation & Growth**
 
