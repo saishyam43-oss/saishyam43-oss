@@ -7,7 +7,7 @@ I specialize in Metric Design, Causal Inference, and Operational Analytics. My c
 ### 🏆 Featured Case Studies (The Big Three)
 *These projects represent my core philosophy on causal modeling, metric design, and strategic trade-offs.*
 
-* **[Causalyn – Precision Targeting with Causal Uplift](Link):** Built a Causal Uplift Model (T-Learner) to isolate incremental revenue and optimize a B2B targeting strategy. Captured ~80% of total campaign value using only 61% of the budget, while actively preventing high-risk account churn.
+* **[Causalyn – Precision Targeting with Causal Uplift]([https://github.com/saishyam43-oss/b2b-uplift-targeting-policy/tree/main]):** Built a Causal Uplift Model (T-Learner) to isolate incremental revenue and optimize a B2B targeting strategy. Captured ~80% of total campaign value using only 61% of the budget, while actively preventing high-risk account churn.
 * **[Flowgrid – Activation Quality Diagnosis](Link):** Audited an onboarding funnel to expose a 98% "Activated" vanity metric that was masking a 99% functional churn risk. Restructured the product roadmap to gate workflows around "Time-to-Second-User."
 * **[Ravenstack – Revenue Retention Strategy](Link):** Conducted a top-down retention audit spanning Growth Efficiency and Cohort Retention to diagnose a 66% lifetime account attrition rate, recommending a pivot from volume-led to Enterprise-led durability.
 
