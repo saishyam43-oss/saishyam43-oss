@@ -7,16 +7,16 @@ I specialize in Metric Design, Causal Inference, and Operational Analytics. My c
 ### 🏆 Featured Case Studies (The Big Three)
 *These projects represent my core philosophy on causal modeling, metric design, and strategic trade-offs.*
 
-* **[Causalyn – Precision Targeting with Causal Uplift]([https://github.com/saishyam43-oss/b2b-uplift-targeting-policy/tree/main]):** Built a Causal Uplift Model (T-Learner) to isolate incremental revenue and optimize a B2B targeting strategy. Captured ~80% of total campaign value using only 61% of the budget, while actively preventing high-risk account churn.
-* **[Flowgrid – Activation Quality Diagnosis](Link):** Audited an onboarding funnel to expose a 98% "Activated" vanity metric that was masking a 99% functional churn risk. Restructured the product roadmap to gate workflows around "Time-to-Second-User."
-* **[Ravenstack – Revenue Retention Strategy](Link):** Conducted a top-down retention audit spanning Growth Efficiency and Cohort Retention to diagnose a 66% lifetime account attrition rate, recommending a pivot from volume-led to Enterprise-led durability.
+* **[Causalyn – Precision Targeting with Causal Uplift](https://github.com/saishyam43-oss/b2b-uplift-targeting-policy):** Built a Causal Uplift Model (T-Learner) to isolate incremental revenue and optimize a B2B targeting strategy. Captured ~80% of total campaign value using only 61% of the budget, while actively preventing high-risk account churn.
+* **[Flowgrid – Activation Quality Diagnosis](https://github.com/saishyam43-oss/saas-activation-habit-diagnosis):** Audited an onboarding funnel to expose a 98% "Activated" vanity metric that was masking a 99% functional churn risk. Restructured the product roadmap to gate workflows around "Time-to-Second-User."
+* **[Ravenstack – Revenue Retention Strategy](https://github.com/saishyam43-oss/saas-growth-retention-strategy):** Conducted a top-down retention audit spanning Growth Efficiency and Cohort Retention to diagnose a 66% lifetime account attrition rate, recommending a pivot from volume-led to Enterprise-led durability.
 
 ---
 
 ### 📂 Additional Experimentation & BI Projects
-* **[CartFlow – Checkout Redesign A/B Test](Link):** Experimentation discipline. Blocked a high-leverage UI shipment by proving the statistical evidence was insufficient to offset the conversion risk.
-* **[PlayGate – Progression Gating Experiment](Link):** Statistical judgment vs. UX. Demonstrated why statistical significance alone is not sufficient for shipping core mechanics without measuring long-term user frustration.
-* **[Retail Sales Operations Analytics](Link):** Technical craftsmanship. Built end-to-end enterprise BI infrastructure involving data cleaning, star schema modeling, and SQL pipeline optimization.
+* **[CartFlow – Checkout Redesign A/B Test](https://github.com/saishyam43-oss/checkout-redesign-ab-test):** Experimentation discipline. Blocked a high-leverage UI shipment by proving the statistical evidence was insufficient to offset the conversion risk.
+* **[PlayGate – Progression Gating Experiment](https://github.com/saishyam43-oss/game-progression-gating-experiment):** Statistical judgment vs. UX. Demonstrated why statistical significance alone is not sufficient for shipping core mechanics without measuring long-term user frustration.
+* **[Retail Sales Operations Analytics](https://github.com/saishyam43-oss/retail-sales-operations-analytics):** Technical craftsmanship. Built end-to-end enterprise BI infrastructure involving data cleaning, star schema modeling, and SQL pipeline optimization.
 
 ---
 
@@ -25,4 +25,4 @@ I specialize in Metric Design, Causal Inference, and Operational Analytics. My c
 * **AI / Efficiency:** Prompt Engineering & LLM Workflows (ChatGPT/Gemini) for pipeline debugging and code generation.
 * **Visualization:** Power BI (DAX), Tableau, Excel, SSRS.
 
-📫 **Let's connect:** [(https://www.linkedin.com/in/saishyam-t/)] | saishyam43@gmail.com
+📫 **Let's connect:** [LinkedIn](https://www.linkedin.com/in/saishyam-t/) | saishyam43@gmail.com
