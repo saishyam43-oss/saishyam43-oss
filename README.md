@@ -13,10 +13,10 @@ My work typically involves:
 ### 🏆 Featured Case Studies
 *These projects demonstrate how I approach product problems using data, experimentation, and metric design.*
 
-* **[Causalyn – Precision Targeting with Causal Uplift](https://github.com/saishyam43-oss/b2b-uplift-targeting-policy):** Built a Causal Uplift Model (T-Learner) to isolate incremental revenue and optimize a B2B targeting strategy. 
-  * *Impact:* Captured ~80% of total campaign value using 61% of the budget, improving targeting efficiency while eliminating churn risk in high-value segments.
 * **[Flowgrid – Activation Quality Diagnosis](https://github.com/saishyam43-oss/saas-activation-habit-diagnosis):** Audited an onboarding funnel to expose a 98% "Activated" vanity metric that was masking a 99% functional churn risk. 
   * *Impact:* Identified a critical onboarding failure and restructured the product roadmap to gate workflows, directly optimizing long-term retention.
+* **[Causalyn – Precision Targeting with Causal Uplift](https://github.com/saishyam43-oss/b2b-uplift-targeting-policy):** Built a Causal Uplift Model (T-Learner) to isolate incremental revenue and optimize a B2B targeting strategy. 
+  * *Impact:* Captured ~80% of total campaign value using 61% of the budget, improving targeting efficiency while eliminating churn risk in high-value segments.
 * **[Ravenstack – Revenue Retention Strategy](https://github.com/saishyam43-oss/saas-growth-retention-strategy):** Conducted a top-down retention audit spanning Growth Efficiency and Cohort Retention to diagnose a 66% lifetime account attrition rate.
   * *Impact:* Exposed a massive long-term revenue risk and influenced a strategic pivot from volume-led to Enterprise-led durability.
 
