@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Sai Shyam 👋
 
-<!--
-**saishyam43-oss/saishyam43-oss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Senior Product Analyst | Decision Science & Operational Analytics**
 
-Here are some ideas to get you started:
+I specialize in Metric Design, Causal Inference, and Operational Analytics. My core focus is bridging the gap between raw data and executive decision-making—whether that means auditing a SaaS onboarding funnel, replacing misleading vanity metrics with true retention signals, or running root-cause diagnostics on critical system failures.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🏆 Featured Case Studies (The Big Three)
+*These projects represent my core philosophy on causal modeling, metric design, and strategic trade-offs.*
+
+* **[Causalyn – Precision Targeting with Causal Uplift](Link):** Built a Causal Uplift Model (T-Learner) to isolate incremental revenue and optimize a B2B targeting strategy. Captured ~80% of total campaign value using only 61% of the budget, while actively preventing high-risk account churn.
+* **[Flowgrid – Activation Quality Diagnosis](Link):** Audited an onboarding funnel to expose a 98% "Activated" vanity metric that was masking a 99% functional churn risk. Restructured the product roadmap to gate workflows around "Time-to-Second-User."
+* **[Ravenstack – Revenue Retention Strategy](Link):** Conducted a top-down retention audit spanning Growth Efficiency and Cohort Retention to diagnose a 66% lifetime account attrition rate, recommending a pivot from volume-led to Enterprise-led durability.
+
+---
+
+### 📂 Additional Experimentation & BI Projects
+* **[CartFlow – Checkout Redesign A/B Test](Link):** Experimentation discipline. Blocked a high-leverage UI shipment by proving the statistical evidence was insufficient to offset the conversion risk.
+* **[PlayGate – Progression Gating Experiment](Link):** Statistical judgment vs. UX. Demonstrated why statistical significance alone is not sufficient for shipping core mechanics without measuring long-term user frustration.
+* **[Retail Sales Operations Analytics](Link):** Technical craftsmanship. Built end-to-end enterprise BI infrastructure involving data cleaning, star schema modeling, and SQL pipeline optimization.
+
+---
+
+### 🛠️ Tech Stack
+* **Analytics & Engineering:** SQL (CTEs, Window Functions), Python (Pandas, Scikit-learn, Time Series), R, PowerShell.
+* **AI / Efficiency:** Prompt Engineering & LLM Workflows (ChatGPT/Gemini) for pipeline debugging and code generation.
+* **Visualization:** Power BI (DAX), Tableau, Excel, SSRS.
+
+📫 **Let's connect:** [(https://www.linkedin.com/in/saishyam-t/)] | saishyam43@gmail.com
