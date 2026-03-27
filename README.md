@@ -1,8 +1,8 @@
 # Hi, I'm Saishyam 👋
 
-**Senior Product Analyst | Product Analytics, Experimentation & Growth**
+**Senior Business Analyst | Business Analytics, Experimentation & Growth**
 
-I’m a Product Analyst focused on solving business-critical problems through data. I specialize in breaking down ambiguous product and operational challenges into measurable metrics, identifying root causes, and driving decisions that impact conversion, retention, and revenue.
+I’m a Business Analyst focused on solving business-critical problems through data. I specialize in breaking down ambiguous product and operational challenges into measurable metrics, identifying root causes, and driving decisions that impact conversion, retention, and revenue.
 
 My work typically involves:
 * Diagnosing funnel drop-offs and retention bottlenecks
@@ -37,7 +37,7 @@ My work typically involves:
 ---
 
 ### 🎯 What I’m Looking For
-I am currently exploring Senior Product Analyst / Business Analyst roles where I can work on:
+I am currently exploring Senior Business Analyst / Product Analyst roles where I can work on:
 * Conversion, retention, and growth bottlenecks
 * Experimentation-driven product decisions
 * Marketplace or consumer product ecosystems
