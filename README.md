@@ -1,6 +1,6 @@
 # Hi, I'm Saishyam 👋
 
-**Senior Business Analyst | Business Analytics, Experimentation & Growth**
+**Senior Product & Business Analyst | Business Analytics, Experimentation & Growth**
 
 I’m a Business Analyst focused on solving business-critical problems through data. I specialize in breaking down ambiguous product and operational challenges into measurable metrics, identifying root causes, and driving decisions that impact conversion, retention, and revenue.
 
