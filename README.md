@@ -24,7 +24,6 @@ My work typically involves:
 
 ### 📂 Additional Experimentation & BI Projects
 * **[CartFlow – Checkout Redesign A/B Test](https://github.com/saishyam43-oss/checkout-redesign-ab-test):** Blocked a high-leverage UI shipment by proving the statistical evidence was insufficient to offset the conversion risk.
-* **[PlayGate – Progression Gating Experiment](https://github.com/saishyam43-oss/game-progression-gating-experiment):** Demonstrated why statistical significance alone is not sufficient for shipping core mechanics without measuring long-term user frustration.
 * **[Retail Sales Operations Analytics](https://github.com/saishyam43-oss/retail-sales-operations-analytics):** Built end-to-end enterprise BI infrastructure involving data cleaning, star schema modeling, and SQL pipeline optimization.
 
 ---
